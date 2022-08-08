@@ -87,7 +87,7 @@ nav li a.selected {
 h1 {
   font-family: 'IBM Plex Mono', monospace;
   margin-bottom: 20px;
-  font-size:calc(130% + 2vw);
+  font-size:calc(160% + 2vw);
   font-weight: 700;
   color: #fc6b3f;
   text-align: center;
