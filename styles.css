@@ -9,6 +9,7 @@ body {
   color: #fff6da;
   font-family: 'IBM Plex Mono', monospace;
   text-align: center;
+  
 }
 
 .wrapper {
@@ -23,7 +24,7 @@ body {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  padding: 40px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -33,7 +34,7 @@ body {
 }
 
 .index-section p {
-  font-size: 20px;
+  font-size: 1em;
   line-height: 28px;
   text-align: left;
 }
@@ -103,7 +104,7 @@ h2 {
 h3 {
   font-family: 'IBM Plex Mono', monospace;
   margin: 20px 0;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: 400;
 }
 
